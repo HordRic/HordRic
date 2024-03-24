@@ -7,6 +7,7 @@ Je suis étuidant à l'Ecole Polytechnique de Lomé en Licence de L'ingénierie 
 - Html
 - Css
 - Javascript
+- C
 
 ## Contact
 - LinkedIn :[ASSOUN Rodrigue](www.linkedin.com/in/rodrigue-assoun)
