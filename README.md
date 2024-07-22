@@ -8,6 +8,8 @@ Je suis étuidant à l'Ecole Polytechnique de Lomé en Licence de L'ingénierie 
 - Css
 - Javascript
 - C
+- Java 
+- Flutter 
 
 ## Contact
 - LinkedIn :[ASSOUN Rodrigue](www.linkedin.com/in/rodrigue-assoun)
