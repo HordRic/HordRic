@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Bienvenue+sur+mon+GitHub+!;Je+suis+développeur+passionné,;Étudiant+en+ingénierie+logicielle,;Développeur+Flutter+et+Laravel.)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="400" src="https://tenor.com/bPQ5y.gif">
 
 Je suis étudiant à l'École Polytechnique de Lomé en Licence de l'Ingénierie Logicielle. Passionné par la technologie et l'innovation, je vise à devenir un expert en développement mobile, gestion des bases de données et la création des IA.
 
