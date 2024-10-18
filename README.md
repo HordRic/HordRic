@@ -2,7 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Bienvenue+sur+mon+GitHub+!;Je+suis+développeur+passionné,;Étudiant+en+ingénierie+logicielle,;Développeur+Flutter+et+Laravel.)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
+
 
 
 
