@@ -1,19 +1,20 @@
-# Bonjour, je m'appelle ASSOUN Akomagni Kodjovi Rodrigue!
+# Hello, my name is ASSOUN Akomagni Kodjovi Rodrigue!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Bienvenue+sur+mon+GitHub+!;Je+suis+développeur+passionné,;Étudiant+en+ingénierie+logicielle,;A+l'Ecole+Polytechnique+de+Lomé,;Développeur+Flutter+et+Laravel.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=)]
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
 
 
 
 
-Je suis étudiant à l'École Polytechnique de Lomé en Licence de l'Ingénierie Logicielle. Passionné par la technologie et l'innovation, je vise à devenir un expert en développement mobile, gestion des bases de données et la création des IA.
+I am a software engineering student at École Polytechnique de Lomé. Passionate about technology and innovation, I aim to become an expert in mobile development, database management, and AI creation.
 
-## Compétences
+## Skills
+- **Programming Languages:** HTML, CSS, JavaScript, C, Java, Flutter
 
-- **Langages de programmation** : HTML, CSS, JavaScript, C, Java, Flutter
-- **Technologies web** : HTML, CSS, PHP
-- **Outils et plateformes** : Git, GitHub
+- **Web Technologies:** HTML, CSS, PHP
+
+- **Tools and Platforms:** Git, GitHub
 
 ## Connect with me
 
@@ -22,9 +23,8 @@ Je suis étudiant à l'École Polytechnique de Lomé en Licence de l'Ingénierie
   <a href="https://www.linkedin.com/in/assoun-rodrigue"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Mes outils préférés
 
-### Langages de programmation et de balisage
+### Programming and Markup Languages
 
 <p>
   <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -38,14 +38,14 @@ Je suis étudiant à l'École Polytechnique de Lomé en Licence de l'Ingénierie
   <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white"></a>
 </p>
 
-### Frameworks et Bibliothèques
+###  Frameworks and Libraries
 
 <p>
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
 </p>
 
-### Bases de données, Cloud & Hébergement
+### Databases, Cloud & Hosting
 
 <p>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
@@ -54,7 +54,7 @@ Je suis étudiant à l'École Polytechnique de Lomé en Licence de l'Ingénierie
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-### Logiciels et outils
+### Software and Tools
 
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -66,12 +66,12 @@ Je suis étudiant à l'École Polytechnique de Lomé en Licence de l'Ingénierie
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## Statistiques et activité Github
+## GitHub Stats and Activity
 
-![Statistiques GitHub d'ASSOUN](https://github-readme-stats.vercel.app/api?username=Rodrigue-ASSOUN&show_icons=true&theme=radical)
-![Langues principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue-ASSOUN&theme=radical)
+![GitHub Stats of ASSOUN](https://github-readme-stats.vercel.app/api?username=Rodrigue-ASSOUN&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue-ASSOUN&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrigue-ASSOUN&show_icons=true&theme=radical)
 
-## Merci de visiter mon profil !
+## Thank you for visiting my profile!
 
-N'hésitez pas à me contacter pour des collaborations ou des discussions sur des projets intéressants.
+Feel free to contact me for collaborations or discussions on interesting projects.
