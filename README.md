@@ -10,7 +10,7 @@
 I am a software engineering student at École Polytechnique de Lomé. Passionate about technology and innovation, I aim to become an expert in mobile development, database management, and AI creation.
 
 ## Skills
-- **Programming Languages:** HTML, CSS, JavaScript, C, Java, Flutter
+- **Programming Languages:** HTML, CSS, JavaScript, C, Java, Flutter, Python
 
 - **Web Technologies:** HTML, CSS, PHP
 
