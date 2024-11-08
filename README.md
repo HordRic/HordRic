@@ -72,6 +72,12 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue-ASSOUN&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrigue-ASSOUN&show_icons=true&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rodrigue-ASSOUN&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## Thank you for visiting my profile!
 
 Feel free to contact me for collaborations or discussions on interesting projects.
