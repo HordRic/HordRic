@@ -65,13 +65,6 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-## GitHub Stats and Activity
-
-![GitHub Stats of ASSOUN](https://github-readme-stats.vercel.app/api?username=Rodrigue-ASSOUN&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue-ASSOUN&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrigue-ASSOUN&show_icons=true&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rodrigue-ASSOUN&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -79,12 +72,18 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rodrigue-ASSOUN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/assounrodrk                           ) 
+
+
+## GitHub Stats and Activity
+
+![GitHub Stats of ASSOUN](https://github-readme-stats.vercel.app/api?username=Rodrigue-ASSOUN&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue-ASSOUN&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrigue-ASSOUN&show_icons=true&theme=radical)
 
 
 ## Thank you for visiting my profile!
