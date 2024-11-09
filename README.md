@@ -65,12 +65,12 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rodrigue-ASSOUN&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rodrigue-ASSOUN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rodrigue-ASSOUN&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
