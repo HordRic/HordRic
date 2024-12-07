@@ -66,6 +66,13 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+## 🏆 Contributor ranking position in Togo
+<p>
+    <a href="https://user-badge.committers.top/togo/Rodrigue-ASSOUN">
+      <img src="https://user-badge.committers.top/togo/Rodrigue-ASSOUN.svg" style="width: 600px; height: 60px;">
+    </a>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rodrigue-ASSOUN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
