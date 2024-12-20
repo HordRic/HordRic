@@ -27,15 +27,15 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 ### Programming and Markup Languages
 
 <p>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Ajquery"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230E76A8.svg?logo=jquery&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARodrigue-ASSOUN+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3HordRic+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Ajquery"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230E76A8.svg?logo=jquery&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHordRic+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white"></a>
 </p>
 
 ###  Frameworks and Libraries
@@ -68,23 +68,23 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 
 ## 🏆 Contributor ranking position in Togo
 <p>
-    <a href="https://user-badge.committers.top/togo/Rodrigue-ASSOUN">
-      <img src="https://user-badge.committers.top/togo/Rodrigue-ASSOUN.svg" style="width: 600px; height: 60px;">
+    <a href="https://user-badge.committers.top/togo/HordRic">
+      <img src="https://user-badge.committers.top/togo/HordRic.svg" style="width: 600px; height: 60px;">
     </a>
 </p>
 
 ## Profil view
 <p>
    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Rodrigue-ASSOUN&label=Profile%20Views&color=1&icon=5&pretty=true" style="width: 600px; height: 60px;" />
+  <img src="https://visitcount.itsvg.in/api?id=HordRic&label=Profile%20Views&color=1&icon=5&pretty=true" style="width: 600px; height: 60px;" />
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rodrigue-ASSOUN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HordRic&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rodrigue-ASSOUN&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=HordRic&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -95,9 +95,9 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 
 ## GitHub Stats and Activity
 
-![GitHub Stats of ASSOUN](https://github-readme-stats.vercel.app/api?username=Rodrigue-ASSOUN&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue-ASSOUN&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrigue-ASSOUN&show_icons=true&theme=radical)
+![GitHub Stats of ASSOUN](https://github-readme-stats.vercel.app/api?username=HordRic&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HordRic&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HordRic&show_icons=true&theme=radical)
 
 
 ## Thank you for visiting my profile!
