@@ -73,13 +73,6 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
     </a>
 </p>
 
-## Profil view
-<p>
-   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HordRic&label=Profile%20Views&color=1&icon=5&pretty=true" style="width: 600px; height: 60px;" />
-  </a>
-</p>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HordRic&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
