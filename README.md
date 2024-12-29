@@ -76,7 +76,6 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 ## Profil view
 <p>
    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Rodrigue-ASSOUN&label=Profile%20Views&color=1&icon=5&pretty=true" style="width: 600px; height: 60px;" />
   <img src="https://visitcount.itsvg.in/api?id=HordRic&label=Profile%20Views&color=1&icon=5&pretty=true" style="width: 600px; height: 60px;" />
   </a>
 </p>
