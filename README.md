@@ -103,5 +103,13 @@ I am a software engineering student at École Polytechnique de Lomé. Passionate
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HordRic&show_icons=true&theme=radical)
 
 
+
+
+## Appointment Booking
+
+[![Book an appointment](https://img.icons8.com/?size=80&id=pE97I4t7Il9M&format=png&color=000000)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3m_bnOa4Wo3Ydp0-4NEYaQE-X_hsUlWukSvKdK5EPkUe2J8VKhMxxTv1MYXDe2RDUCpQPd6Wbi?gv=true)
+
+
+
 ## Thank you for visiting my profile!
 Feel free to contact me for collaborations or discussions on interesting projects.
